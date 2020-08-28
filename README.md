@@ -25,7 +25,7 @@ int main()
     }
     if(studentmarks<40  && studentmarks>=0)
     {
-        printf("Wrong marks");
+        printf("Grade F");
     }
     else
     {
